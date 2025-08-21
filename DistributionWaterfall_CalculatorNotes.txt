@@ -1,0 +1,20 @@
+Notes for Distribution Waterfall Calculator:
+
+Yearly Return % Input
+Contributions per Person
+% Return Per Manager
+% Return Outside People
+Minimums Activated
+Outside Capital Invested
+NAV
+AUM
+Amt. Distributed
+Liquidity Reserve
+Tax Reserve
+Realized Gain (short term vs. long term gains)
+
+(Show equities between Argus and Challenger Funds) (what $ is Argus and what $ is Challenger)
+
+(BREAK DOWN EACH FEE?)
+
+extra step: 25%+ (75/25) split until 50% (50/50)
