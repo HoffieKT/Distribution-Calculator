@@ -110,7 +110,7 @@ fund_manager_returns = [0, fund_manager_salary, management_fee_amt * 0.45]
 data_manager_returns = [0, data_manager_salary, management_fee_amt * 0.25]
 legal_manager_returns = [0, legal_manager_salary, management_fee_amt * 0.30]
 investor_returns = [0, 0, 0]
-remaining_navs = [end_nav - start_nav, net_profits + manager_salaries, net_profits + manager_salaries + management_fee_amt]
+remaining_navs = [end_nav - start_nav, net_profits + manager_salaries + management_fee_amt, net_profits + management_fee_amt]
 
 if aum > 0:
     manager_investor_share = manager_contributions / aum
